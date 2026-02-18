@@ -50,6 +50,9 @@ We leveraged a full suite of AI tools to accelerate development and asset creati
 * 🍖 **On-Chain Care:** Feed and pet your AI companion via micro-transactions on BNB Chain to increase "Happiness Level".
 * 🎩 **Accessories Marketplace:** Mint unique items (hats, glasses) to customize your pet's look.
 
+**Phase 4: Autonomous On-Chain Agents (OpenClaw Integration)🤖**
+Your AI pet evolves from a conversational companion into an active on-chain agent. Aligning with its unique personality, your pet will be able to execute trades, monitor risks, or manage yields autonomously on the BNB Chain using the OpenClaw framework.
+
 ---
 
 ## 🛠️ How to Run
