@@ -70,3 +70,5 @@ Click **"CONNECT WALLET"**. The app connects to BNB Chain via MetaMask. If you o
 2.  Run `npm install`.
 3.  Run `npm run dev`.
 4.  *Note: This project is optimized for the Replit environment.*
+
+https://youtu.be/mV2XHndG6no
