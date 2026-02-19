@@ -66,6 +66,7 @@ export default function PetCompanion({
 
   const hasVideo = !!companionVideo;
 
+
   return (
     <div className="relative" data-testid={`pet-companion-${petId}`}>
       <div className="absolute -inset-3 rounded-full bg-[#F0B90B]/10 blur-xl animate-pulse pointer-events-none" />
@@ -91,6 +92,7 @@ export default function PetCompanion({
             <video
               ref={videoRef}
               src={companionVideo}
+              poster={petImage}
               muted
               loop
               autoPlay

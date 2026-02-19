@@ -150,6 +150,7 @@ export default function ChatInterface({ petId, onBack }: ChatInterfaceProps) {
       {!videoError ? (
         <video
           src={pet.video}
+          poster={pet.image}
           muted
           loop
           autoPlay
